@@ -30,7 +30,7 @@ Your journey starts here! We've teamed up with incredible student communities an
 Whether it's for a hackathon, a class project, or a new club, we'd love to host it.
 
 1.  **Tell Us About It:** Fill out our quick **[Repository Request Form](https://forms.cloud.microsoft/r/Rg7FkYQiJa)** or scan the QR code below.
-    <center><img src="QRCODE.png" height="350px" style="border-radius: 20px;"></center>
+    <center><img src="QRCODE.png" height="300px" style="border-radius: 20px;"></center>
 2.  **The Details:** We'll ask for a project name, a short description, and the GitHub usernames of the maintainers.
 3.  **We'll Handle the Rest:** An admin will review your request and create the repository for you. You'll get an email as soon as it's ready!
 
