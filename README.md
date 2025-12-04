@@ -10,7 +10,6 @@ Hello innovators, creators, and problem-solvers! Welcome to the official GitHub 
 Your journey starts here! We've teamed up with incredible student communities and industry leaders to give you the tools and opportunities you need to grow. Find what sparks your interest and jump right in.
 
 ### Campus Communities 💡
-* **E-Cell (Entrepreneurship Cell):** For the aspiring founders and big thinkers ready to build the future.
 * **Business Incubator Foundation:** Have a startup idea? Get the expert mentorship you need to grow.
 * **GDG (Google Developer Group):** Your hub for all things Google—from Android development to AI and the cloud.
 * **MLSA (Microsoft Learn Student Ambassadors):** Lead and learn with a global community of student tech leaders.
@@ -73,10 +72,7 @@ We're dedicated to creating a welcoming and respectful space for everyone. All c
 ---
 
 ## 💬 Questions? Let's Talk!
-
 We're here to help. Feel free to reach out to our organization admins:
 
 * **Prateek:** [LinkedIn](https://www.linkedin.com/in/prateek-kv-613822281/)
-* **Manjeet:** [LinkedIn](https://www.linkedin.com/in/manjeetjay/)
-
 We can't wait to see what you build!
